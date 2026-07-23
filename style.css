@@ -1,0 +1,73 @@
+h1{
+    color:red;
+    text-align: center;
+}
+button{
+    color: rebeccapurple;
+    background-color:gold ;
+}
+body{
+    background-color:aqua;
+}
+.heading{
+    color: green;
+}
+p{
+    text-align: right;
+    
+
+}
+h4{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: normal;}
+#one{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+    line-height: 20px;
+    text-transform: capitalize;
+
+    } 
+
+ 
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+
+
+}
+ a{
+    color:white;
+    font-size: 25px;
+    margin-right: 200px;
+}
+#logo{
+    color: chocolate;
+    font-size: 20px;
+}
+#box1{
+    background-color: antiquewhite;}
+ #box2{
+    background-color: black;
+
+ }   
+#container{
+    width: 800px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    ------------------------------------------------------------------------------------------------------------------------------
+}
+    
+    
+
+
+div{
+    height: 100px;
+    width: 1900px;
+
+
+    
+
+}
